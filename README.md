@@ -1,6 +1,6 @@
 # Instacart Consumer Behavior Analysis
 
-Welcome! This repository offers a complete workflow for understanding and predicting shopper behaviors on Instacart’s 2017 dataset. You’ll find everything from data cleaning to advanced modeling techniques, all designed to uncover actionable insights.
+This repository offers a complete workflow for understanding and predicting shopper behaviors on Instacart’s 2017 dataset.
 
 ## ⚙️ What You’ll Find
 
